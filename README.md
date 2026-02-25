@@ -10,6 +10,9 @@ An AI-powered desktop application for real-time fraud detection built with Pytho
 
 > Train the model, predict transactions, and view live performance charts — all in one app.
 
+
+<img width="1909" height="1080" alt="Screenshot 2026-02-26 030704" src="https://github.com/user-attachments/assets/2d48aa62-b2ed-43bf-8805-689115a41c38" />
+
 ---
 
 ## ✨ Features
